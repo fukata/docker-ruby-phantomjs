@@ -1,4 +1,4 @@
-FROM ruby:2.4.1
+FROM ruby:2.4.1-alpine
 
 # Env
 ENV PHANTOMJS_VERSION 2.1.1
